@@ -1,0 +1,8 @@
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.csproj.AssemblyReference.cache
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.AssemblyInfoInputs.cache
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.AssemblyInfo.cs
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.csproj.CoreCompileInputs.cache
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.RazorAssemblyInfo.cache
+/home/cung/Desktop/Programming/AspDotNet/Test/SignalRChat/obj/Debug/net5.0/SignalRChat.RazorAssemblyInfo.cs

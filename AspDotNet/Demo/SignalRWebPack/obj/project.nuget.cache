@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rr82b5Y2c6l+HVk10oIJnNodYJaPOeJTRBUjt45k+gQ044o2iJZqJSVPZYpyCCNYGaEjIuGeiNxWvOvVHnAMjQ==",
+  "success": true,
+  "projectFilePath": "/home/cung/Desktop/Programming/AspDotNet/Demo/SignalRWebPack/SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "/home/cung/.nuget/packages/microsoft.typescript.msbuild/4.4.2/microsoft.typescript.msbuild.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
